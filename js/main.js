@@ -20,7 +20,8 @@ const appState = {
   correctAnswer: null,
   counter: 0,
   volume: 0.5,
-  correctCount: 0
+  correctCount: 0,
+  correctRate: 0.0
 }
 
 // CSVファイルを読み込む関数
@@ -117,6 +118,7 @@ async function showQuestion () {
 
   // 問題を表示
   domElements.questionElement.textContent = appState.correctAnswer.en1
+  applyHighlightAnimation(domElements.questionElement)
 
   await tts(appState.correctAnswer.en1, 'en-US')
 
@@ -145,42 +147,52 @@ async function showQuestion () {
   })
 }
 
+async function displayResult (message) {
+  let html = `<h3>${message}</h3>`
+  html += `<p>${appState.correctAnswer.en1}<br>${appState.correctAnswer.jp1}</p>`
+  html += `<p>${appState.correctAnswer.en2}<br>${appState.correctAnswer.jp2}</p>`
+  html += `<button id="nextQuestionButton">次の問題へ</button>`
+
+  domElements.resultElement.innerHTML = html
+  const nextQuestionButton = document.getElementById('nextQuestionButton')
+  nextQuestionButton.addEventListener('click', showQuestion)
+
+  applyHighlightAnimation(domElements.resultElement)
+
+  domElements.correctCountElement.textContent = `正解数: ${appState.correctCount}`
+  domElements.correctRateElement.textContent = `正解率: ${appState.correctRate}%`
+
+  await tts(appState.correctAnswer.en2, 'en-US')
+}
+
 async function checkAnswer () {
   const selectedChoice = document.querySelector('input[name="choice"]:checked')
-  if (selectedChoice) {
-    domElements.answerButton.style.display = 'none'
+  domElements.answerButton.style.display = 'none'
 
+  if (selectedChoice) {
     const selectedWordId = selectedChoice.value
 
-    let html = ''
-
     if (selectedWordId === appState.correctAnswer.id) {
-      html += `<h3>正解</h3>`
       appState.correctCount++
+      appState.correctRate =
+        appState.counter > 0
+          ? Math.round((appState.correctCount / appState.counter) * 100)
+          : 0
       addExcludedWordId(appState.correctAnswer.id)
+      await displayResult('【正解】')
     } else {
-      html += `<h3>不正解</h3>`
+      appState.correctRate =
+        appState.counter > 0
+          ? Math.round((appState.correctCount / appState.counter) * 100)
+          : 0
+      await displayResult('【不正解】')
     }
-
-    let correctRate =
+  } else {
+    appState.correctRate =
       appState.counter > 0
         ? Math.round((appState.correctCount / appState.counter) * 100)
         : 0
-
-    html += `<p>${appState.correctAnswer.en1} (${appState.correctAnswer.jp1})</p>`
-    html += `<p>${appState.correctAnswer.en2}<br>${appState.correctAnswer.jp2}</p>`
-    html += `<button id="nextQuestionButton">次の問題へ</button>`
-
-    domElements.resultElement.innerHTML = html
-    const nextQuestionButton = document.getElementById('nextQuestionButton')
-    nextQuestionButton.addEventListener('click', showQuestion)
-
-    await tts(appState.correctAnswer.en2, 'en-US')
-
-    domElements.correctCountElement.textContent = `正解数: ${appState.correctCount}`
-    domElements.correctRateElement.textContent = `正解率: ${correctRate}%`
-  } else {
-    domElements.resultElement.textContent = '選択肢を選んでください。'
+    await displayResult('【パス】')
   }
 }
 
@@ -199,6 +211,20 @@ function tts (text, lang) {
 
     speechSynthesis.speak(uttr)
   })
+}
+
+// 要素にハイライトアニメーションを適用する関数
+function applyHighlightAnimation (element) {
+  // 一瞬色を変えるスタイルを追加
+  element.classList.add('highlight')
+  // アニメーション終了後にクラスを削除
+  element.addEventListener(
+    'animationend',
+    () => {
+      element.classList.remove('highlight')
+    },
+    { once: true }
+  ) // once: true で一度だけ実行
 }
 
 volumeSlider.addEventListener('change', e => {
