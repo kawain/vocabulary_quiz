@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color: #e6e6e6;
+  --text-color: #1a1a1a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* ダークモードの値 */
+    --bg-color: #1a1a1a;
+    --text-color: #e6e6e6;
+  }
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Roboto', serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: 'wdth' 100;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 20px 0;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+.volume-control-wrapper {
+  width: fit-content;
+  margin: 20px auto;
+}
+
+#start {
+  display: flex;
+  justify-content: center;
+}
+
+#columns {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+#columns > div {
+  width: 50%;
+}
+
+#choices label {
+  display: block;
+  margin: 10px 0;
+}
+
+#choices input[type='radio'] {
+  padding: 10px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+#answer {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+#result {
+  margin: 20px 0;
+  text-align: center;
+  line-height: 1.5;
+}
+
+#status {
+  margin: 20px 0;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.link-group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.word-table {
+  margin: 20px auto;
+  max-width: 1200px;
+}
+
+.word-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.word-table th,
+.word-table td {
+  border: 1px solid var(--text-color);
+  padding: 8px;
+}
+
+.word-table th {
+  background-color: var(--bg-color);
+  color: var(--button-text);
+}
+
+.word-table .wordNo {
+  text-align: center;
+}
+
+.word-table .check {
+  text-align: center;
+  cursor: pointer;
+}
+
+.center {
+  text-align: center;
+}
+
+#checkAll {
+  cursor: pointer;
+}
+
+.show-or-hide {
+  cursor: pointer;
+}
+
+#checkAll2 {
+  cursor: pointer;
+}
+
+.show-or-hide2 {
+  cursor: pointer;
+}
