@@ -448,7 +448,7 @@ id	en1	jp1	en2	jp2
 534	tea	お茶、茶葉から作られる飲み物	I enjoy drinking a cup of tea every afternoon.	私は毎夕、1杯のお茶を飲むのを楽しんでいます。
 535	band	バンド、音楽グループ	The band performed their latest songs at the concert last weekend.	そのバンドは先週末のコンサートで最新の曲を演奏しました。
 536	popular	人気のある、広く知られている	The movie is so popular that the tickets sold out quickly.	その映画は非常に人気があるので、すぐにチケットが売り切れてしまいました。
-537	mine	私のもの、私の鉱山	This diamond is mine and I found it deep in the mine.	このダイヤモンドは私のもので、私はそれを鉱山の奥深くで見つけました。
+537	mine	私のもの、鉱山	This diamond is mine and I found it deep in the mine.	このダイヤモンドは私のもので、私はそれを鉱山の奥深くで見つけました。
 540	direction	方向、指示	Can you please give me directions to the nearest train station?	最寄りの駅までの道順を教えていただけますか？
 541	abroad	海外	He traveled abroad to find a job.	彼は海外での仕事を見つけるために旅行しました。
 542	week	週、1週間	I plan to go on a trip with my friends next week.	来週は友達と旅行に行く予定です。
@@ -2754,7 +2754,7 @@ id	en1	jp1	en2	jp2
 4940	saving account	貯蓄口座	You can earn interest by depositing money into a saving account.	貯蓄口座にお金を預けると、利息が得られます。
 4942	frost	霜	Frost covered the grass in the morning.	朝、草の上に霜が降りていました。
 4963	set in	設定、設置	The movie is set in a futuristic city.	その映画は未来の都市に設定されています。
-4964	gala	ガラ、盛大な集まり	She attended the annual gala dressed in a beautiful gown.	彼女は年に一度のガラに美しいドレスを着て出席しました。
+4964	gala	お祭り、祝祭、にぎやかな催し、盛大な集まり	She attended the annual gala dressed in a beautiful gown.	彼女は年に一度の催しに美しいドレスを着て出席しました。
 4965	provide A with B	AにBを提供する	He provided the team with the necessary resources for the new project.	彼は新しいプロジェクトのために、チームに必要な資源を提供しました。
 4966	what if	もし何かが起こったら	What if something happens, we must be ready to respond immediately.	もし何かが起こったら、私たちはすぐに対処する準備を整えなければなりません。
 4972	turn down	拒否する、断る	She decided to turn down the job offer.	彼女はその仕事のオファーを断りました。
@@ -6167,7 +6167,7 @@ id	en1	jp1	en2	jp2
 11363	in response	に応じて	The company acted in response to the changing market conditions.	会社は市場の変化に対応して行動しました。
 11364	fortify	強化する	The government plans to fortify the border with more troops.	政府は国境をより多くの軍隊で強化する予定です。
 11365	much as	同様に	I love reading books much as I love watching movies.	私は映画を見るのと同じくらい本を読むことが好きです。
-11370	too to	トゥ	The ice cream is too cold to eat.	そのアイスクリームは食べるには冷たすぎる。
+11370	too to	～すぎて、～できない、～するにはあまりにも～すぎる	The ice cream is too cold to eat.	そのアイスクリームは食べるには冷たすぎる。
 11371	revolutionary	革命的な	The new technology is revolutionary and will change the world.	新しい技術は革命的で、世界を変えるでしょう。
 11372	work at	で働く	She works at a marketing firm.	彼女はマーケティング会社で働いています。
 11374	put on weight	太る	I've put on weight since I started working from home.	在宅勤務になってから太りました。
