@@ -1,4 +1,4 @@
-id	en1	jp1	en2	jp2
+id	en	jp	en2	jp2
 1	way	方法、道筋	There are many ways to solve this problem.	この問題を解決する方法はたくさんあります。
 4	bad	悪い、ひどい	The weather was so bad that we decided to stay indoors all day.	天気がとても悪かったので、私たちは一日中家の中にいることにしました。
 5	should	すべき、必要がある	You should study for your exams to get good grades.	良い成績を取るために、試験勉強をすべきです。
@@ -72,10 +72,10 @@ id	en1	jp1	en2	jp2
 90	breakfast	朝食	I had bread and coffee for breakfast.	朝食はパンとコーヒーでした。
 91	branch	枝	I sat on a large branch of the tree and read a book.	大きな木の枝に座って、本を読みました。
 92	pocket	ポケット、服の一部で物を入れるための空間	I found some loose change in my pocket.	ポケットの中にいくつかの小銭を見つけました。
-97	honesty	誠実、正直さ	Honesty is the foundation of any strong relationship.	誠実さは、どんな強い関係の基盤です。
+97	honesty	誠実、正直さ	Honesty is the foundation of any strong relationship.	誠実さはあらゆる強い関係の基礎です。
 98	beauty	美しさ、魅力	The beauty of the sunset took my breath away.	夕日の美しさには息を呑みました。
 99	friendly	友好的な、親しみやすい	He always has a friendly smile on his face.	彼はいつも友好的な笑顔を浮かべている。
-100	advise	動詞「助言する」「勧める」	He advised me on my decision to continue my education.	彼は私に進学について助言をくれました。
+100	advise	助言する、勧める	He advised me on my decision to continue my education.	彼は私に進学について助言をくれました。
 101	loose	ゆるい、緩い	His pants are a bit loose, so he needs to tighten his belt.	彼のズボンは少しゆるいので、ベルトを締める必要があります。
 102	word	単語、言葉	Can you tell me the meaning of this word?	この単語の意味を教えてくれますか？
 104	shelf	棚、物を置くための平らな面	I placed my favorite books on the shelf.	お気に入りの本を棚に置きました。
@@ -149,7 +149,7 @@ id	en1	jp1	en2	jp2
 192	reduce	減らす、縮小する	We need to find new ways to reduce energy consumption.	私たちはエネルギー消費を減らすために新しい方法を見つける必要があります。
 193	beyond	超えて、向こう側に、以上に	The beauty of the sunset was beyond words.	その夕日の美しさは言葉で表現できないほどでした。
 194	smoke	煙、タバコを吸う	He went outside to smoke.	彼はタバコを吸うために外に出た。
-195	street	通り、街路	The street was lined with beautiful cherry blossom trees.	その通りは美しい桜の木で並んでいました。
+195	street	通り、街路	The street was lined with beautiful cherry blossom trees.	通りには美しい桜の木が並んでいました。
 196	intend	意図する、予定する	I intend to finish my project by the end of the week.	私は今週の終わりまでにプロジェクトを終えるつもりです。
 197	rude	失礼な、無礼な	He used rude language in front of everyone.	彼は人前で失礼な言葉を使った。
 200	struggle	闘い、苦闘すること	She had to struggle to finish her homework on time.	彼女は宿題を時間通りに終わらせるために苦闘しなければならなかった。
@@ -166,7 +166,7 @@ id	en1	jp1	en2	jp2
 214	demand	要求、需要	The company had to increase production to meet the high demand for their new product.	その会社は新しい商品の高い需要に応えるために生産を増やさなければならなかった。
 216	detail	詳細、細部	Please provide me with the details of the project.	プロジェクトの詳細を教えてください。
 217	list	リスト、一連の項目	Please make a list of the groceries we need to buy.	私たちが買うべき食品のリストを作ってください。
-218	level	レベル、段階	She reached a new level of skill in her piano playing.	彼女はピアノ演奏の新しいレベルの技術に達しました。
+218	level	レベル、段階	She reached a new level of skill in her piano playing.	彼女はピアノ演奏の技術において新たなレベルに達した。
 219	wait	待つ	He was reading a book while he waited for his friend.	彼は友達を待つ間、本を読んでいました。
 220	high	高い、（程度や価値が）高い	The mountain is very high and difficult to climb.	その山は非常に高く、登るのが難しいです。
 221	accident	事故	He was injured in an accident while driving.	彼は運転中に事故に巻き込まれて怪我をしました。
@@ -186,14 +186,14 @@ id	en1	jp1	en2	jp2
 241	screw	ねじ、ねじ込む	He tightened the screw.	彼はねじを締めた。
 243	feel	感じる、感情を持つ	I always feel happy when I spend time with my friends.	友達と一緒に過ごすと、いつも幸せな気持ちになります。
 246	marriage	結婚、婚姻	Their marriage was celebrated with a big party surrounded by family and friends.	彼らの結婚は、家族と友人に囲まれて大きなパーティーで祝われました。
-249	kill	殺す、死なせる	He was determined to kill the dangerous monster that had terrorized the village.	彼は村を terrorized していた危険なモンスターを殺す決心をしていた。
+249	kill	殺す、死なせる	He was determined to kill the dangerous monster that had terrorized the village.	彼は村を恐怖に陥れた危険な怪物を殺そうと決心した。
 251	mile	マイル、距離の単位（約1.609キロメートル）	The race track is five miles long.	そのレーストラックは5マイルの長さです。
 253	since	それ以来	He hasn't driven since the accident.	彼はその事故以来、一度も運転していません。
 254	propose	提案する、申し出る	She decided to propose a new project at the meeting.	彼女は会議で新しいプロジェクトを提案することに決めました。
 255	cat	猫	The cat sat on the windowsill, enjoying the warm sunlight.	猫は窓辺に座って、温かい日差しを楽しんでいました。
 257	hit	打つ、衝突する、たたく	He tried to hit the target but missed completely.	彼は的を打とうとしたが、まったく外れた。
 259	nest	巣	The birds built a nest high up in the tree.	小鳥たちは高い木の上に巣を作りました。
-261	sheep	羊	The farmer has a flock of sheep grazing in the field.	農夫は畑で羊の群れを草を食べさせています。
+261	sheep	羊	The farmer has a flock of sheep grazing in the field.	農家は畑で羊の群れを放牧している。
 262	shoot	撃つ、撮影する	He shot the scenery with his camera.	彼はカメラで風景を撮影した。
 263	size	サイズ、大きさ	The size of the dress fits me perfectly.	そのドレスのサイズは私にぴったりです。
 264	before	以前、前に	I always like to arrive at the airport before my flight.	私はいつも自分のフライトの前に空港に到着するのが好きです。
@@ -227,7 +227,7 @@ id	en1	jp1	en2	jp2
 307	wear	着る	She wore a new dress for the party.	彼女はパーティーのために新しいドレスを着ました。
 308	farm	農場	The farm grows fresh vegetables and fruits.	農場では新鮮な野菜や果物が育てられています。
 309	glad	嬉しい、喜んでいる	I am so glad to hear the good news!	良い知らせを聞いてとても嬉しいです！
-310	worship	崇拝、敬うこと	Many people gather in the temple to worship together.	多くの人々が寺院に集まり、一緒に崇拝します。
+310	worship	崇拝、敬うこと	Many people gather in the temple to worship together.	多くの人々が一緒に礼拝するために寺院に集まります。
 311	least	最も少ない、最も低い	She has the least amount of experience in the team.	彼女はチームで最も少ない経験しか持っていません。
 312	tie	結ぶ、ネクタイ、絆	I need to tie my shoes before going out.	外に出る前に靴を結ばなければなりません。
 317	affair	関係、事件	He publicly apologized for his affair involved in the scandal.	彼はそのスキャンダルの中での不倫関係について公に謝罪しました。
@@ -475,7 +475,7 @@ id	en1	jp1	en2	jp2
 666	bus	バス、公共交通機関の一種	I took the bus to school this morning.	今朝、学校に行くためにバスに乗りました。
 669	suggest	提案する、示唆する	She suggested a new restaurant.	彼女は新しいレストランを提案しました。
 671	son	息子	His son participates in soccer practice every week.	彼の息子は毎週サッカーの練習に参加しています。
-672	coffee	コーヒー	I love to start my day with a cup of hot coffee.	私は熱いコーヒーを一杯飲んで1日を始めるのが好きです。
+672	coffee	コーヒー	I love to start my day with a cup of hot coffee.	私は熱いコーヒーを一杯飲んで一日を始めるのが好きです。
 675	system	システム	The new system significantly improved the efficiency of our operations.	新しいシステムを導入することで、業務の効率が大幅に向上しました。
 676	circle	円、丸い形	The children sat in a circle during story time.	子供たちは物語の時間に円形に座りました。
 678	this	これ、これを、これらを	This is the book I was talking about.	これは私が話していた本です。
@@ -1107,7 +1107,7 @@ id	en1	jp1	en2	jp2
 1591	make	作る、製作する	He is gathering materials to make new furniture.	彼は新しい家具を作るための材料を集めています。
 1592	black	黒い、暗い	The sky was black with storm clouds.	空は嵐の雲で真っ黒だった。
 1595	curtain	カーテン、布の仕切り	She pulled back the curtain to let in the sunshine.	彼女は太陽の光を入れるためにカーテンを引いた。
-1596	formal	形式的な、正式な	The invitation to the gala was very formal, with elegant wording and a sophisticated design.	ガalaへの招待状はとても正式で、優雅な文言と洗練されたデザインが施されていました。
+1596	formal	形式的な、正式な	The invitation to the gala was very formal, with elegant wording and a sophisticated design.	祝賀会への招待状は非常にフォーマルなもので、上品な文言と洗練されたデザインでした。
 1597	claim	主張、要求	He made a claim to the ownership of the land.	彼はその土地の所有権を主張しました。
 1598	tend	世話をする、傾向がある	She tends to forget her umbrella when it rains.	彼女は雨の時に傘を忘れがちです。
 1599	brain	脳、思考能力	The brain is responsible for controlling all the functions of the body.	脳は体のすべての機能をコントロールする役割を果たしています。
@@ -1660,7 +1660,7 @@ id	en1	jp1	en2	jp2
 2571	fall in with	交わる、付き合う、関わる	He began to fall in with some new friends.	彼は新しい友達と関わるようになった。
 2573	iron out	解決する、問題を明確にする	We ironed out the issues in the meeting.	私たちは会議で問題を解決しました。
 2574	blow in	（風などが）吹き込む、（予期しないことが）突然起こる	The strong wind blew in through the window.	強風が窓から吹き込んできた。
-2578	sleep on	熟考する、じっくり考える	I will sleep on the issue and think it over.	その問題については、寝かせて考えてみることにします。
+2578	sleep on	一晩寝て考える、時間を置いてじっくり考える	I will sleep on the issue and think it over.	私はその問題について一晩寝て、じっくり考えます。
 2579	fade away	消える、消えていく	His memories began to fade away gradually.	彼の思い出は徐々に消えていきました。
 2581	gain on	得る、達成する	He is gaining a lot of experience on that project.	彼はそのプロジェクトで多くの経験を得ています。
 2585	in doubt	疑念がある、確信が持てない	She was in doubt about the results.	彼女はその結果に疑念を抱いていた。
@@ -1780,7 +1780,7 @@ id	en1	jp1	en2	jp2
 2895	go into effect	発効する、施行される	The new law will go into effect next month.	新しい法律は来月から発効します。
 2896	so as to	～するために、～する目的で	He is studying hard so as to pass the exam.	彼は試験に合格するために、一生懸命勉強している。
 2897	bear down	押し付ける、圧力をかける、厳しさを増す	He is bearing down as the exam approaches.	彼は試験に向けてプレッシャーを増している。
-2898	seldom if ever	めったに（〜しない）、ほとんどしないこと	He seldom, if ever, arrives late.	彼はめったに（ほとんど）遅刻しません。
+2898	seldom if ever	めったに（〜しない）、ほとんどしないこと	He seldom, if ever, arrives late.	彼はめったに遅刻しません。
 2902	hear out	意見を聞く、耳を傾ける	He heard me out until I finished my story.	彼は私の話を最後まで聞いてくれました。
 2903	rumor has it that	噂では〜だと言われている、〜という噂がある	Rumor has it that he will become the leader of the new project.	噂では、彼が新しいプロジェクトのリーダーになると言われています。
 2905	fish for	～を求める、～を探す	He is still fishing for the right answers through various sources.	彼は適切な答えを求めてさまざまな情報を探し続けています。
@@ -2405,7 +2405,7 @@ id	en1	jp1	en2	jp2
 5569	mess up	めちゃくちゃにする、台無しにする	He managed to mess up the project.	彼はプロジェクトをめちゃくちゃにしてしまった。
 5572	come through	通過する、やって来る	He came through with the support he promised and exceeded our expectations.	彼は約束通りに支援を提供し、私たちの期待を超えて助けてくれました。
 5578	at the moment	現在、その時	At the moment, I am working on a new project.	現在、私は新しいプロジェクトに取り組んでいます。
-5583	wisdom tooth	知恵歯、親知らず	He decided to have his wisdom tooth removed because he was in pain.	彼は痛みを感じて、知恵歯を抜くことに決めました。
+5583	wisdom tooth	親知らず	He decided to have his wisdom tooth removed because he was in pain.	彼は痛みがあったので親知らずを抜くことにした。
 5584	as yet	まだ、いまのところ	He has not found a new job as yet.	彼はまだ新しい仕事を見つけていません。
 5589	out of nowhere	突然、予告もなく	He appeared out of nowhere and surprised everyone.	彼は突然、予告もなく現れて、みんなを驚かせた。
 5595	back up	バックアップ	It is very important to back up your important data.	大切なデータのバックアップを取っておくことは非常に重要です。
@@ -2436,7 +2436,7 @@ id	en1	jp1	en2	jp2
 5668	schedule	予定、スケジュール	She created a new schedule for the meeting next week.	彼女は来週の会議のために新しいスケジュールを作成しました。
 5671	puppy	子犬	The puppy is playing in the yard and is very energetic.	子犬は庭で遊んでいて、とても元気です。
 5672	million	百万	He won a million dollars in the lottery.	彼は百万ドルの宝くじに当たった。
-5673	adult	大人	When you become an adult, you need to take responsibility for your own decisions.	大人になると、自分の decisiones に責任を持つ必要があります。
+5673	adult	大人	When you become an adult, you need to take responsibility for your own decisions.	大人になったら、自分の決断に責任を持つ必要があります。
 5675	period	期間、時代	He used the period to learn new skills.	彼はこの期間を利用して新しいスキルを学びました。
 5676	wallet	財布	He dropped his wallet in the park.	彼は公園で財布を落としてしまいました。
 5677	novel	小説	She relaxes every evening by reading a new novel.	彼女は毎晩新しい小説を読みながらリラックスして過ごします。
@@ -3327,7 +3327,7 @@ id	en1	jp1	en2	jp2
 8201	effulgent 	光り輝く、まばゆい	The effulgent light of the sunrise illuminated the sea.	日の出のまばゆい光が海を照らした。
 8202	macabre 	気味悪い、ぞっとする、死を連想させる	The movie was macabre and had many gruesome scenes.	その映画は不気味で、ぞっとする場面がたくさんあった。
 8203	obsequious 	追従的な、卑屈な	He was obsequious to his boss and always agreed with him.	彼は上司に追従的で、いつも彼に同意していた。
-8204	x marks the spot 	×印の場所が目印、まさにそこ	The map had an "x marks the spot" where the treasure was buried.	地図には、宝が埋まっている場所に×印がついていた。
+8204	x marks the spot 	×印の場所が目印、まさにそこ	The map had an "x marks the spot" where the treasure was buried.	地図には、宝が埋まっている場所にx印がついていた。
 8205	wan 	青白い、弱々しい、元気がない	After her illness, her face looked wan and she seemed weak.	病気の後、彼女の顔色は青白く、元気がないように見えた。
 8206	hit the hay 	寝る、床につく	I was tired, so I decided to hit the hay early.	疲れたので、早く寝ることにした。
 8207	abysmal 	深淵な、底知れない、ひどい	The results of the exam were abysmal.	試験の結果はひどいものだった。
@@ -3473,7 +3473,7 @@ id	en1	jp1	en2	jp2
 8604	close out	終了する、清算する	The store is having a sale to close out its inventory.	店は在庫を清算するためにセールを行っています。
 8606	bail out	救済する、助け出す	The government bailed out the struggling company.	政府は苦境に立たされた企業を救済しました。
 8611	sticking point	行き詰まり、障害点	The overtime pay was the sticking point in salary negotiations.	給与交渉の障害点は残業手当でした。
-8613	be alien to	～に馴染みがない、無縁である	This concept is completely alien to me.	この考えは私には全く alien です。
+8613	be alien to	～に馴染みがない、無縁である	This concept is completely alien to me.	この概念は私にとって全く未知のものです。
 8618	bank on	当てにする、頼る	I always bank on him to be on time.	私はいつも彼が時間通りに来ることを当てにしている。
 8620	graceful	優雅な、上品な	She danced gracefully like a ballet dancer.	彼女はバレエダンサーのように優雅に踊った。
 8621	fall off	落ちる、減少する	Sales have fallen off considerably since last month.	売り上げは先月からかなり減少している。
@@ -3684,7 +3684,7 @@ id	en1	jp1	en2	jp2
 9068	album	アルバム、音楽や写真などの集まり	I just got the new album from my favorite band, and I've been listening to it all day!	お気に入りのバンドの新しいアルバムを手に入れたばかりで、今日はずっと聴いているよ！
 9070	America	アメリカ、合衆国	I've always wanted to visit America and see the Grand Canyon.	ずっとアメリカに行ってグランドキャニオンを見たいと思っていた。
 9071	American	アメリカ人、アメリカの	She loves American music, especially jazz and blues.	彼女はアメリカの音楽、特にジャズとブルースが大好きです。
-9072	amusement park	遊園地、楽しめる場所	We spent the whole day at the amusement park and had a blast riding all the roller coasters.	私たちは遊園地で一日中過ごして、全てのジェットコースターに乗って大楽しみしました。
+9072	amusement park	遊園地、楽しめる場所	We spent the whole day at the amusement park and had a blast riding all the roller coasters.	私たちは遊園地で一日中過ごして、全てのジェットコースターに乗って大いに楽しみしました。
 9075	April	4月、春の最初の月	April is my favorite month because the flowers start to bloom.	4月は私のお気に入りの月です。花が咲き始めるからです。
 9076	artist	アーティスト、芸術家	My friend is a talented artist who paints beautiful landscapes.	私の友達は美しい風景を描く才能あるアーティストです。
 9080	balloon	風船、空気やガスで膨らませたもの	The kids were excited to see the colorful balloon float up into the sky.	子供たちはカラフルな風船が空に浮かぶのを見てワクワクしていました。
@@ -3879,7 +3879,7 @@ id	en1	jp1	en2	jp2
 9462	South Africa	南アフリカ、アフリカ大陸の国	I would love to visit South Africa next summer to see the wildlife.	来年の夏に南アフリカを訪れて野生動物を見たいです。
 9467	speaker	スピーカー、話す人、演説者	She is an amazing speaker who can captivate any audience.	彼女はどんな聴衆も魅了できる素晴らしいスピーカーです。
 9468	sports day	スポーツの日、運動会	I can't wait for sports day next week; it's always so much fun!	来週のスポーツの日が待ちきれないよ。いつもすごく楽しいから！
-9470	stable master	安定した主人、安定した管理者	The stable master took great care of all the horses.	その安定した管理者はすべての馬を大切に世話していました。
+9470	stable master	馬小屋の管理人、相撲の親方	The stable master took great care of all the horses.	その馬小屋の管理人はすべての馬を大切に世話していました。
 9472	Statue of Liberty	自由の女神像	The Statue of Liberty is one of the most famous landmarks in New York City.	自由の女神像はニューヨーク市で最も有名なランドマークの一つです。
 9475	stringed instrument	弦楽器	I love playing stringed instruments like the violin and guitar.	バイオリンやギターのような弦楽器を弾くのが大好きです。
 9477	style	スタイル、様式、流儀	I really love her fashion style; she always looks amazing.	彼女のファッションスタイルが大好きで、いつも素晴らしく見える。
@@ -4027,7 +4027,7 @@ id	en1	jp1	en2	jp2
 9699	wonderful	素晴らしい、素敵な	The sunset was absolutely wonderful yesterday.	昨日の夕日は本当に素晴らしかった。
 9700	worried	心配している、不安な	I'm worried about my exam results next week.	来週の試験の結果が心配です。
 9703	all right 	大丈夫、いいよ	That's all right; we can figure it out together.	大丈夫だよ、一緒に解決できますから。
-9704	anymore	もはや、もうこれ以上はない	I can't stand this job anymore; I need to find something else.	この仕事はもはや耐えられない；別の仕事を見つける必要がある。
+9704	anymore	もはや、もうこれ以上はない	I can't stand this job anymore; I need to find something else.	この仕事はもはや耐えられない。別の仕事を見つける必要がある。
 9708	clearly	明確に、はっきりと	She explained the instructions clearly so everyone could understand.	彼女はみんなが理解できるように、はっきりと指示を説明しました。
 9709	closely	親密に、注意深く	She watched the performance closely to catch every detail.	彼女はすべての細部を見逃さないように、そのパフォーマンスを注意深く見ていた。
 9710	deeply	深く、徹底的に	She was deeply moved by the speech at the ceremony.	彼女はその式典でのスピーチに深く感動しました。
@@ -4052,7 +4052,6 @@ id	en1	jp1	en2	jp2
 9735	were	過去形の「be」、存在することを表す言葉	They were really excited about the trip we planned.	彼らは私たちが計画した旅行にとてもワクワクしていました。
 9736	an	一つの、ある	I saw an interesting movie yesterday.	昨日、面白い映画を見ました。
 9737	says	言う、述べる	She always says that honesty is the best policy.	彼女はいつも「正直は最良の方針だ」と言っています。
-9738	n't	非表示の略語、否定形の一部	I can't believe she isn't coming to the party.	彼女がパーティーに来ないなんて信じられない。
 9739	told	言った、伝えた	She told me a secret that I promised to keep.	彼女は私に守ると約束した秘密を教えてくれました。
 9740	years	年、歳	I can't believe it's been five years since we last met!	私たちが最後に会ったのは5年前だなんて信じられない！
 9741	made	作った、製造した	I made a delicious cake for my friend's birthday party.	友達の誕生日パーティーのためにおいしいケーキを作りました。
@@ -4759,7 +4758,7 @@ id	en1	jp1	en2	jp2
 10878	appetite	食欲	You don't have an appetite, do you?	あなたは食欲がありませんね。
 10879	cleaning	掃除、クリーニング	Can someone pick up my dry cleaning?	誰か私のクリーニングをとって来られる？
 10883	married	結婚している	Are you married?	あなたは結婚していますか？
-10887	graduation	卒業	What do you want to do after graduation?	mcdonald卒業後は何をしたいですか？
+10887	graduation	卒業	What do you want to do after graduation?	卒業後は何がしたいですか？
 10894	battery	電池、バッテリー	My battery is dead.	バッテリー切れです。
 10896	anniversary	記念日	It's almost our anniversary.	もうすぐで記念日だ。
 10902	accidentally	うっかり、偶然に	I accidentally swallowed a piece of gum.	うっかりガムを飲み込んじゃった。
@@ -4776,7 +4775,7 @@ id	en1	jp1	en2	jp2
 10946	come with	～が付いている、～が付属している	The computer comes with the software.	コンピューターにはソフトウェアが付いている。
 10949	objective truth	客観的な真実	The West created an "objective truth" about the East, which was then used as a tool to justify colonial rule and cultural superiority.	西洋は東洋についての「客観的真実」を作り上げ、それを植民地支配と文化的優位性を正当化する手段として利用した。
 10950	value judgement	価値判断	We need to distinguish between objective facts and value judgments.	客観的な事実と価値判断を区別する必要があります。
-10952	philosopher	哲学者	The 18th century philosopher Hume argued for a distinction between "is" and "ought."	18 世紀の哲学者ヒュームは、「ある」と「あるべき」を区別すべきだと主張しました。
+10952	philosopher	哲学者	The 18th century philosopher Hume argued for a distinction between "is" and "ought."	18世紀の哲学者ヒュームは、「ある」と「あるべき」を区別すべきだと主張しました。
 10954	impose	課す、負わせる、押し付ける	It is true that there are many people in the world who confuse facts with values and impose their own values on others as "objective truth."	世の中には、事実と価値観を混同し、自分の価値観を「客観的な真実」として他人に押し付ける人がたくさんいるのが事実です。
 10955	draw from	 ～から引き出す、～から取り出す、～から集める、～から得る	It is highly likely that smart people and elites know a lot of objective facts, but the value judgments they draw from them are not necessarily "correct."	賢い人々やエリートたちは客観的な事実を多く知っている可能性は高いが、そこから導き出される価値判断は必ずしも「正しい」わけではない。
 10957	point of view	視点	Whether it's right or wrong depends on each individual's point of view.	それが正しいか間違っているかは、各個人の視点によって異なります。
@@ -4980,7 +4979,7 @@ id	en1	jp1	en2	jp2
 11325	try on	試着する	I'm going to try on a new shirt for tomorrow's presentation.	私が明日のプレゼンテーションのため新しいシャツを試着する予定です。
 11327	passing through	通過する	Passing through the airport, I noticed she had fallen asleep.	空港を通過するとき、彼女が眠りに落ちていることに気づきました。
 11328	wait for	待つ	We had to wait for the results of the medical tests.	私たちは医療検査の結果を待つことになりました。
-11330	call back	逆озвонить	If I'm not at the office, call back later.	もし私が職場にいない場合は、時間をずらして再電話してください。
+11330	call back	折り返し電話	If I'm not at the office, call back later.	もし私が職場にいない場合は、時間をずらして再電話してください。
 11331	box office	窓口	It's a big show, tickets will sell out at the box office.	それは大イベントで、チケットは窓口で即完売します。
 11332	be true	本当である	We'll know soon enough if all these assumptions are true.	こういった仮定が本当であるかどうかは、すぐにわかります。
 11337	in power	権力の	The new government has been in power for a year now.	新しい政府はもう1年権力を握っています。
@@ -5177,7 +5176,7 @@ id	en1	jp1	en2	jp2
 11701	in general	一般的に	In general, people like ice cream.	一般的に、人々はアイスクリームが好きです。
 11703	in support of	を支持して	The team acted in support of the charity.	チームはチャリティーを支援して行動しました。
 11705	be heard	聞こえる	The voice could be heard from outside.	その声は外から聞こえました。
-11707	at most	最大で	The car can go 100km/h at most.	その車は最大で100km / hまで行くことができます。
+11707	at most	最大で	The car can go 100km/h at most.	この車は最高時速100kmで走れる。
 11710	be interested in	に興味がある	She is interested in studying history.	彼女は歴史を学ぶことに興味があります。
 11713	one day	ある日	I will visit you one day.	私はある日あなたを訪ねます。
 11718	spread out	広がる	The map spread out on the table for everyone to see.	テーブルに地図が広げられて、みんなで見ることができた。
@@ -5398,7 +5397,7 @@ id	en1	jp1	en2	jp2
 12152	stand in line	列に立つ、行列に並ぶ	People stand in line for hours to buy the new iPhone.	人々は新しいiPhoneを買うために何時間も列に並ぶ。
 12153	in favor of	に賛成して、支持して	She is in favor of changing the school's uniform policy.	彼女は学校の制服政策を変更することに賛成だ。
 12157	like to	好きである、好む	I like to read books in my free time.	私は暇な時間に本を読むことが好きだ。
-12158	arrangement	取り決め、準備	The arrangement of the flowers was beautiful.	花の配置は美しかった。
+12158	arrangement	配置、取り決め、準備	The arrangement of the flowers was beautiful.	花の配置が美しかったです。
 12163	sure to	必ず、確実に	I'm sure to attend the meeting tomorrow.	私は明日必ず会議に出席する。
 12165	dispose of	捨てる、処分する	Please dispose of the trash properly.	ゴミを適切に捨ててください。
 12167	logical	論理的な、合理的な	The argument seems logical, but I still have doubts.	その議論は論理的だが、まだ疑問が残る。
@@ -5417,7 +5416,7 @@ id	en1	jp1	en2	jp2
 12190	not possible	不可能な、できない	It's not possible to finish the project on time.	そのプロジェクトを時間どおりに終わらせることは不可能だ。
 12192	instal	インストールする、設置する	The software needs to be instal on your computer.	ソフトウェアをコンピューターにインストールする必要があります。
 12200	catch up with	追いつく、進捗を知る	I need to catch up with my studies before the exams.	試験前に勉強に追いつく必要があります。
-12201	put to	課す、使う	He was put to the test during the competition.	彼はコンペティション中に試されました。
+12201	put to	試す、テストする、適用する、使う、提示する、提出する	He was put to the test during the competition.	彼は競技中に試された。
 12202	run out of	使い果たす、なくなる	We need to go shopping because we have run out of milk.	牛乳がなくなったので、買い物に行く必要があります。
 12203	income tax	所得税	Everyone is required to pay income tax based on their earnings.	すべての人は、収入に基づいて所得税を支払う必要があります。
 12206	be at	いる、いる状態である	We need to be at the meeting by 10 AM.	私たちは午前10時までに会議にいる必要があります。
@@ -5443,7 +5442,6 @@ id	en1	jp1	en2	jp2
 12248	in charge	責任がある、担当する	She is in charge of the project.	彼女がそのプロジェクトを担当している。
 12249	be caught up in	〜に巻き込まれる	He got caught up in the excitement.	彼は興奮に巻き込まれた。
 12252	bodily	肉体的な、身体の	The bodily response to stress is complex.	ストレスに対する身体的な反応は複雑である。
-12253	of service	役に立つ、サービス	The store provides excellent customer service.	その店は優れた顧客サービスを提供している。
 12254	invade	侵略する、侵入する	The country was afraid that the neighboring country would invade it.	その国は、隣の国に侵略されることを恐れていた。
 12257	in the air	空中で、期待に満ちて	The rumors have been floating in the air for weeks.	その噂は数週間、空中を漂っていた。
 12258	as such	そのようなものとして	He was referred to as a genius as such by his peers.	彼はそのような天才として彼の同僚たちから評価されていた。
@@ -5494,9 +5492,9 @@ id	en1	jp1	en2	jp2
 12357	one another	互いに	The team members respect one another's opinions.	チームメンバーは互いの意見を尊重している。
 12358	as～as possible	できるだけ～に	The company aims to reduce costs as much as possible.	その会社はできるだけコストを削減することを目指している。
 12359	of the best	最高の	The hotel is considered one of the best in the city.	そのホテルは市内で最高のホテルの一つとされている。
-12362	common law	コモンロー	The country follows a system of common law.	その国はコモンローに基づくシステムに従っている。
+12362	common law	コモンロー、慣習法	The country follows a system of common law.	その国はコモンローに基づくシステムに従っている。
 12363	short time	短時間	The meeting was scheduled for a short time, but it lasted for hours.	その会議は短時間と予定されていたが、数時間も続いた。
-12364	be packed with	満員である	The concert hall was packed with excited fans.	:そのコンサートホールは興奮したファンで満員であった。
+12364	be packed with	満員である	The concert hall was packed with excited fans.	そのコンサートホールは興奮したファンで満員であった。
 12367	fall in love	恋に落ちる	I never thought I would fall in love so quickly.	私はこんなに早く恋に落ちるとは思いませんでした。
 12369	differ from	〜と異なる	Your opinion differs from mine on this matter.	この件について、あなたの意見は私の意見と異なります。
 12370	wait and see	様子を見る	Let's wait and see how the situation develops.	状況がどのように進展するか様子を見ましょう。
@@ -5722,7 +5720,7 @@ id	en1	jp1	en2	jp2
 12760	make sure	確認する、確かに〜する	Please make sure the door is locked.	ドアが確かにロックされていることを確認してください。
 12761	every other	交互に、〜ごとに	I go to the gym every other day.	私は交互にジムに行く。
 12763	take care of	世話をする	Can you take care of my dog while I'm away?	私が留守の間、犬の世話をしてくれますか？
-12766	take turns	順番にやる	We took turns driving on the road trip.	私たちはロードトリップで運転を順番に交代した。
+12766	take turns	順番にやる	We took turns driving on the road trip.	私たちは交代で運転して遠出をしました。
 12768	go through	通り過ぎる、経験する	She went through a lot of difficulties in her life.	彼女は人生で多くの困難を経験した。
 12770	with regard to	に関して	I have a question with regard to the project.	そのプロジェクトに関して質問がある。
 12773	recession	不況	The country experienced a recession last year.	その国は昨年不況に見舞われた。
@@ -5781,7 +5779,7 @@ id	en1	jp1	en2	jp2
 12861	only a few	ほんの少し、わずか	Only a few people knew the secret.	ほんのわずかの人しかその秘密を知りませんでした。
 12863	on the right	右側に	The museum is on the right.	博物館は右側にあります。
 12864	make sense	意味をなす、理解できる	That doesn't make sense to me.	それは私には意味がわかりません。
-12865	take off	離陸する、脱ぐ	The plane will take off soon. / Please take off your shoes.	飛行機はすぐに離陸します。/ 靴を脱いでください。
+12865	take off	離陸する、脱ぐ	The plane will take off soon. 	飛行機はすぐに離陸します。
 12866	obliged to	～する義務がある、～せざるを得ない	I feel obliged to help them.	私は彼らを助けなければならないと感じています。
 12867	equip	装備する、備え付ける	The new lab is fully equipped with modern instruments.	新しい実験室は最新の機器が完備されています。
 12871	a kind of	一種の	This is a kind of traditional Japanese art.	これは一種の日本の伝統芸術です。
@@ -5811,7 +5809,7 @@ id	en1	jp1	en2	jp2
 12924	Would you like ～？	～はいかがですか？	Would you like a cup of coffee?	コーヒーはいかがですか？
 12926	vote against	反対の投票をする	Many people voted against the new law.	多くの人々が新しい法律に対して反対票を投じた。
 12928	in time	間に合うように、タイミングよく	We arrived just in time for the concert.	私たちはコンサートにちょうど間に合うように到着した。
-12929	home run	ホームラン、本塁打	He hit a home run in the bottom of the ninth inning.	彼は9回下位でホームランを打った。
+12929	home run	ホームラン、本塁打	He hit a home run in the bottom of the ninth inning.	彼は９回裏にホームランを打った。
 12930	electric field	電界、電気の場	The electric field around the charged particle was intense.	荷電粒子周辺の電界は強かった。
 12932	done in	疲れ果てた、終了した	I was done in after running the marathon.	マラソンを走った後、私は疲れ果てた。
 12934	young man	青年	He is a promising young man with a bright future.	彼は将来有望な青年です。
@@ -5828,7 +5826,7 @@ id	en1	jp1	en2	jp2
 12954	graph	グラフ	The graph shows the sales trends over the past year.	そのグラフは過去1年間の販売傾向を示しています。
 12957	get over	乗り越える、克服する	It takes time to get over a breakup.	失恋を乗り越えるには時間がかかります。
 12958	drive down	押し下げる、抑制する	The company is trying to drive down costs.	会社はコストを抑制しようとしています。
-12962	ask a favor	お願いをする、頼み事をする	Can I ask a favor of you? I need help with this project.	お願いしてもいいですか？ このプロジェクトで助けが必要です。
+12962	ask a favor	お願いをする、頼み事をする	Can I ask a favor of you? I need help with this project.	お願いしてもいいですか？このプロジェクトで助けが必要です。
 12963	at last	ついに、とうとう	At last, the rain has stopped.	ついに雨が止んだ。
 12964	acid	酸、酸性の	Lemon juice is acidic.	レモンジュースは酸性です。
 12968	as soon as possible	できるだけ早く	Please reply to this email as soon as possible.	できるだけ早くこのメールに返信してください。
