@@ -291,7 +291,7 @@ id	en	jp	en2	jp2
 379	failure	失敗、敗北	Failure is often the first step towards success.	失敗はしばしば成功への第一歩です。
 380	curl	体を丸めること、またはグルーミングの一環として猫などが体をくるっと丸めること。	The cat likes to curl up on the warm windowsill during the sunny afternoon.	その猫は、日差しの強い午後に温かい窓辺で丸まるのが好きです。
 381	milk	牛乳	I drink a glass of milk every morning.	私は毎朝牛乳を一杯飲みます。
-382	butter	バター、脂肪分の高い乳製品	I spread butter on my toast every morning.	私は毎朝、トーストにバターを塗ります。
+382	butter	バター	I spread butter on my toast every morning.	私は毎朝、トーストにバターを塗ります。
 383	ground	地面、土壌	The children played on the soft ground in the park.	子供たちは公園の柔らかい地面で遊びました。
 384	knock	ノックする、叩く音	Please knock on the door before entering.	入る前にドアをノックしてください。
 385	rare	珍しい、稀な	It is rare to see such a beautiful sunset.	そんな美しい夕日を見るのは珍しい。
@@ -327,7 +327,7 @@ id	en	jp	en2	jp2
 422	occasion	場合、機会	We should celebrate this special occasion with a party.	この特別な機会をパーティーで祝うべきです。
 424	dinner	夕食	We had a delicious dinner with our friends.	私たちは友達と一緒に美味しい夕食を食べました。
 426	paper	紙、書類	I need to print this report on a clean sheet of paper.	この報告書をきれいな紙に印刷する必要があります。
-427	cloud	雲、空に浮かんでいる水蒸気や氷の粒の集まり	The sky was covered with dark clouds before the storm hit.	嵐が来る前、空は暗い雲に覆われていました。
+427	cloud	雲	The sky was covered with dark clouds before the storm hit.	嵐が来る前、空は暗い雲に覆われていました。
 428	trial	試み、試験	The new software is currently undergoing a trial period to test its features.	新しいソフトウェアは、その機能をテストするために現在試用期間中です。
 429	competition	競争、競技	The competition was fierce, but I managed to secure first place.	競争は激しかったが、私はなんとか1位を獲得することができました。
 431	breathe	呼吸する、息をする	It's important to breathe deeply when you're feeling stressed.	ストレスを感じているときは、深く呼吸することが大切です。
@@ -351,7 +351,7 @@ id	en	jp	en2	jp2
 461	group	グループ、集団	Our group is made up of people who share the same interests.	私たちのグループは同じ趣味を持つ人々で構成されています。
 462	ability	能力、才能	He has an amazing ability for music.	彼は素晴らしい音楽の才能を持っています。
 465	degree	学位、程度、度合い	She earned her master's degree in psychology.	彼女は心理学の修士号を取得しました。
-466	sake	日本酒、米から作ったアルコール飲料	I enjoyed a glass of sake with my sushi dinner.	寿司の夕食と一緒に日本酒を一杯楽しみました。
+466	sake	日本酒	I enjoyed a glass of sake with my sushi dinner.	寿司の夕食と一緒に日本酒を一杯楽しみました。
 467	brighten	明るくする、輝かせる	Her smile brightened the whole room.	彼女の笑顔は部屋全体を明るくしました。
 468	hotel	ホテル	They stayed at a comfortable hotel during their trip.	彼らは旅行中に快適なホテルに宿泊しました。
 469	charge	請求、料金、責任	Please note that there will be an additional charge for extra services.	追加サービスには、追加料金がかかることに注意してください。
@@ -3845,7 +3845,6 @@ id	en	jp	en2	jp2
 9167	Dr. （Dr）	医者、博士	Dr. Smith is my family doctor and he's really caring.	スミス博士は私のかかりつけの医者で、とても親切です。
 9168	drama	ドラマ、劇的な出来事	I love watching drama series on TV after a long day.	長い一日の後、テレビでドラマシリーズを見るのが大好きです。
 9171	drinking fountain	飲水器、水飲み場	I always fill my bottle at the drinking fountain before class.	私は授業の前に飲水器でボトルをいつも満たします。
-9175	e-mail （email）	電子メール、Eメール	I just sent you an email with the details for our meeting.	私は会議の詳細を含むEメールをあなたに送りました。
 9176	eight	八、8	I have eight apples in my bag.	私のバッグにはりんごが8個あります。
 9177	eighteen	十八、18歳	I turned eighteen last week, and I'm so excited to finally be a legal adult!	先週18歳になったばかりで、やっと法律上の大人になれて嬉しい！
 9179	eighth	8番目、8つのうちの1つ	She's the eighth person to finish the race.	彼女はレースを終えた8番目の人です。
@@ -6068,3 +6067,11 @@ id	en	jp	en2	jp2
 13067	scenic	景色の良い	We took a scenic route along the coast.	私たちは海岸沿いの景色の良いルートを通った。
 13069	baked	焼いた	We had baked potatoes for dinner.	夕食にはベイクドポテトを食べた。
 13074	con	だますこと、詐欺	He tried to con her out of her money.	彼はお金で彼女をだまそうとした。
+13078	nostrils	鼻の穴、 鼻孔	The horses came to a halt, steam streaming from their nostrils.	馬は停止し、鼻孔から蒸気が吹き出た。
+13079	belly button	へそ	Do you have a belly button ring?	へそピアスしてるの？
+13080	anus	肛門	The anus is the opening through which waste is expelled from the body.	肛門は老廃物を体外に排出する開口部です。
+13081	index finger	人差し指	Raise an index finger.	人差し指を立てる。
+13082	middle finger	中指	I was shocked he raised his middle finger.	彼が中指を立てたのには驚いた。
+13083	ring finger	薬指	She loves to wear a ring on her ring finger.	彼女は薬指に指輪をはめるのが好きだ。
+13084	pinky finger	小指	He spread the cream with his pinky finger.	彼は小指でそのクリームを塗りひろげた。
+13085	earthworm	ミミズ	He dug up an earthworm while planting flowers.	彼は花を植えているときにミミズを掘り出した。
