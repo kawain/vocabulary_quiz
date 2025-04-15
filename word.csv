@@ -1709,7 +1709,6 @@ id	en	jp	en2	jp2
 2432	sales quota	販売目標、売上のノルマ	He is working hard to meet his sales quota for this quarter.	彼はこの四半期の販売目標を達成するために一生懸命働いています。
 2468	pull together	まとめる、協力する	We need to pull together as a team to make this project a success.	私たちはプロジェクトを成功させるために、全員で力を合わせる必要があります。
 2475	place A ban on	禁止する、禁止令を出す	The government decided to place a ban on smoking in public places.	政府は公共の場での喫煙を禁止することに決めました。
-2482	sell out	完売する、売り切れる	The concert tickets sold out quickly.	コンサートのチケットはすぐに完売しました。
 2488	tune up	調整、調律、最適化	I do a tune-up on my car's engine every year.	車のエンジンを調整するために、毎年チューンアップをしています。
 2494	obstacle to	障害、妨げ	His criticism was a significant obstacle to her success.	彼女の成功にとって、彼の批判は大きな障害でした。
 2499	fit in	適応する、仲間に溶け込む	I was able to fit in with my friends quickly after transferring to the new school.	新しい学校に転校してから、友達とすぐにフィットインすることができました。
@@ -3763,7 +3762,6 @@ id	en	jp	en2	jp2
 9035	I might have done 〜	〜したかもしれない、〜した可能性がある	I might have done better if I had studied harder.	もっと一生懸命勉強していたら、もっと良い結果が出たかもしれない。
 9036	Do you mind if I 〜	気にしますか、それとも気にしませんかの表現	Do you mind if I borrow your pen for a moment?	少しの間、あなたのペンを借りてもいいですか？
 9037	Is it okay if I 〜?	〜してもいいですか？	Is it okay if I borrow your pen for a moment?	ちょっとあなたのペンを借りてもいいですか？
-9038	It looks like 〜	〜のように見える	It looks like it's going to rain today.	今日は雨が降りそうですね。
 9039	That sounds like 〜	それは～のように聞こえます。	That sounds like a great idea for our weekend plans.	それは私たちの週末の計画にとって素晴らしいアイデアのように聞こえます。
 9040	It seems like 〜	～のように見える、～のようだ	It seems like it's going to rain later today.	今日は後で雨が降りそうだ。
 9041	If I were you, I would 〜	もし私があなたなら、～するでしょう	If I were you, I would take that job offer without hesitation.	もし私があなたなら、その仕事のオファーをためらわずに受けるでしょう。
@@ -4937,7 +4935,7 @@ id	en	jp	en2	jp2
 10894	battery	電池、バッテリー	My battery is dead.	バッテリー切れです。
 10896	anniversary	記念日	It's almost our anniversary.	もうすぐで記念日だ。
 10902	accidentally	うっかり、偶然に	I accidentally swallowed a piece of gum.	うっかりガムを飲み込んじゃった。
-10904	understanding	理解、理解力	My boss is very understanding.	私の上司はすごく理解があるな。
+10904	understanding	理解、理解力	I don't have a good understanding of the situation.	私はその状況をよく理解していません。
 10914	prepared	準備された	I'm all prepared for the negotiation, I practiced the presentation.	商談の準備はばっちり、プレゼンの演習をしたもんね。
 10915	sharing	共有	The information sharing isn't going well.	情報の共有がうまくいってないよ。
 10917	stopping	停止、止まること	Once I get to a good stopping point after a short break, I will.	少し休憩したら、切りのいいところまで終わらせてからね。
@@ -5054,7 +5052,6 @@ id	en	jp	en2	jp2
 11142	armed forces	軍隊、武力	The armed forces protect the country from external threats.	軍隊は外部の脅威から国を守ります。
 11144	come back	戻ってくる、帰ってくる	I'll come back later to help you with the project.	後でプロジェクトを手伝いに戻ってきます。
 11145	fail to	～し損なう、～できない	He failed to complete the assignment on time.	彼は時間通りに課題を完了できませんでした。
-11147	on the	～の上に、～に関して	The book is on the table.	本はテーブルの上にあります。
 11148	its way	その途中で、向かっている	The package is on its way to you.	小包はあなたに向かっています。
 11150	shed	落とす、脱ぐ	The tree sheds its leaves in the fall.	木は秋に葉を落とします。
 11151	willing to	～する意思がある	I am willing to help you with your homework.	宿題を手伝う意思があります。
@@ -5284,7 +5281,6 @@ id	en	jp	en2	jp2
 11574	compared with	比較して、比べて	The new model is more efficient compared with the old one.	新モデルは旧モデルと比較してより効率的だ。
 11578	any one	どれでも、誰でも	You can choose any one of these options.	あなたはこれらの選択肢からどれでも選ぶことができる。
 11579	get lost	迷う、失われる	I got lost in the city because I didn't have a map.	地図がなかったので私はその都市で迷った。
-11580	agree with	賛成する、同意する	I agree with your opinion.	私はあなたの意見に賛成だ。
 11582	to the end	最後まで	We must see this project through to the end.	このプロジェクトを最後までやり遂げなければならない。
 11584	rumor	噂、うわさ	A rumor spread quickly through the office.	噂がオフィス内に急速に広がった。
 11587	in love	恋をしている、愛している	She's in love with her new colleague.	彼女は新しい同僚のことが好きだ。
@@ -5330,7 +5326,6 @@ id	en	jp	en2	jp2
 11657	fake	偽の、フェイクの	The fake designer bag was sold online.	その偽のデザイナーバッグはオンラインで販売されていた。
 11660	after the war	戦後	The country experienced a period of growth after the war.	その国は戦後に成長の時期を経験した。
 11662	ready for	～の準備ができている	Are you ready for the test?	テストの準備はできていますか？
-11663	let know	知らせる、通知する	Please let me know if you need any help.	もし何か助けが必要なら私に知らせてください。
 11664	not use	使用しない	Please do not use the phone during the meeting.	会議中に電話を使用しないでください。
 11665	go for	～に行く、～を支持する	Let's go for a walk in the park.	公園で散歩しよう。
 11666	not occur	発生しない、起きない	The error should not occur again.	そのエラーは再び発生しないはずだ。
@@ -5465,7 +5460,6 @@ id	en	jp	en2	jp2
 11930	but then	しかしその後、ところが	I was going to stay home, but then I decided to go out.	家にいるつもりだったけど、その後出かけることにした。
 11931	kit	キット、道具一式	This first aid kit is essential for camping.	この救急キットはキャンプに不可欠です。
 11932	be able	できる	I will be able to finish the report by tomorrow.	明日までにレポートを終えることができるでしょう。
-11933	this point	この時点で、この点	At this point, we need to make a decision.	この時点で、私たちは決断を下す必要があります。
 11935	place in	〜に置く、〜に入れる	Please place the book in the designated area.	本を所定の場所に置いてください。
 11937	move to	〜へ移動する	We are planning to move to a new office next month.	来月、新しいオフィスへ移動する予定です。
 11938	answer to	〜に対する答え、〜に応える	I need to find an answer to this question.	この質問に対する答えを見つける必要があります。
@@ -5582,7 +5576,7 @@ id	en	jp	en2	jp2
 12168	by all means	ぜひとも、どうぞ	You should by all means try this new restaurant.	ぜひともこの新しいレストランに行ってみてください。
 12170	in accordance	に沿って、に従って	The company operates in accordance with the law.	同社は法律に従って運営している。
 12174	correspond to	に対応する、に一致する	The new policy corresponds to the changing needs of the market.	新しいポリシーは市場の変化するニーズに対応している。
-12177	with a smile	笑顔で、にっこりと	She greeted me with a smile.	彼女は笑顔で私に挨拶した。
+12177	with a smile	笑顔で、にっこりと	She talked to me with a smile.	彼女は笑顔で話しかけてきた。
 12178	composed of	から成る、構成される	The team is composed of five members.	チームは5人のメンバーで構成されている。
 12180	by two	2で、2倍	The price was increased by two times.	価格は2倍に引き上げられた。
 12181	provided for	規定されている、提供されている	The law provides for the protection of the environment.	法律は環境保護を規定している。
@@ -5772,7 +5766,6 @@ id	en	jp	en2	jp2
 12532	take a picture	写真を撮る	Let's take a picture to remember this moment.	この瞬間を記念に写真を撮りましょう。
 12533	opposed to	～に反対して	I am opposed to the new policy.	私はその新しい政策に反対です。
 12534	conservation	保護、保全	Wildlife conservation is important for the future.	野生生物の保護は将来のために重要です。
-12538	excel in	～に秀でる、優れている	She excels in mathematics.	彼女は数学に秀でています。
 12539	not take	受け入れない、認めない	I will not take that kind of behavior.	私はそのような振る舞いは受け入れません。
 12540	depending on	～次第で、～によって	The price varies depending on the season.	価格は季節によって異なります。
 12541	situate on	～に位置する	The hotel is situated on the beach.	そのホテルはビーチに位置しています。
@@ -5794,7 +5787,6 @@ id	en	jp	en2	jp2
 12567	hear from	～から連絡をもらう	I hope to hear from you soon.	すぐにあなたから連絡があることを願っています。
 12568	kind of	一種の、まあまあ	It's kind of cold today.	今日はちょっと寒いですね。
 12573	fill in	記入する、埋める	Please fill in this form with your details.	詳細をこのフォームに記入してください。
-12574	ought to	～すべきである	You ought to apologize for your mistake.	あなたは自分の間違いを謝罪すべきです。
 12578	year in	年々、年間の	The company's year in review showed strong profits.	会社の年次報告書は、高い利益を示しました。
 12580	by law	法律によって、法的に	It is required by law to wear a seatbelt.	シートベルトの着用は法律で義務付けられています。
 12582	in spite	～にもかかわらず	In spite of the rain, we had a great time.	雨にもかかわらず、私たちは素晴らしい時間を過ごしました。
